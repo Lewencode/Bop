@@ -1,3 +1,13 @@
+# 2023/05/04 APK File reported by Avast to be a virus. I don't think so. I am contacting Avast, about the incidence
+
+
+
+
+
+
+
+
+
 # Bop - Music Player [![GitHub release](https://img.shields.io/github/release-pre/iamSahdeep/Bop.svg?style=popout-square)](https://github.com/iamSahdeep/Bop/releases/tag/v1.2.2) [![Fdroid release](https://img.shields.io/f-droid/v/com.sahdeepsingh.Bop.svg?style=flat-square)](https://f-droid.org/en/packages/com.sahdeepsingh.Bop)
 
 
