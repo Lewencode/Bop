@@ -1,5 +1,9 @@
 # 2023/05/04 APK File reported by Avast to be a virus. I don't think so. I am contacting Avast, about the incidence
+Status: We've received your submission. The sample you submitted will be analyzed and evaluated.
 
+We'll contact you if we need further information and reply as soon as the evaluation of your sample is complete.
+
+Thanks for contacting our Support team
 
 
 
