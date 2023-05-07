@@ -1,3 +1,12 @@
+# 2023/05/07 No Virus found! Avast has contacted me and removed the false positive:
+
+Hello,
+
+Thank you for contacting Avast and reporting a false positive file detection. I'm happy to help.
+
+The reported APK file was checked by Avast virus specialists and based on the findings the detection was removed. The file is now marked as clean in the Avast virus database. This change may take up to 24 hours to take full effect. Please accept my apology for the inconvenience caused.
+
+
 # 2023/05/04 APK File reported by Avast to be a virus. I don't think so. I am contacting Avast, about the incidence
 Status: We've received your submission. The sample you submitted will be analyzed and evaluated.
 
